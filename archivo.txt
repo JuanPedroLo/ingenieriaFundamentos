@@ -1,4 +1,4 @@
 git
 objetivo: aprender a usar git
-descripción:
+descripción: 1
 
